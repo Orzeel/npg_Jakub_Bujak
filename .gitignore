@@ -1,1 +1,6 @@
 D:\npg_Jakub_Bujak\npg_Jakub_Bujak\plikTekstowy.txt
+**/logs
+**/build
+*.pdf
+*.tmp
+*.log
